@@ -1,0 +1,15 @@
+fastapi[standard]
+supabase
+python-dotenv
+pydantic-settings
+PyJWT[crypto]
+python-multipart
+pymupdf
+python-docx
+pandas
+openpyxl
+xlrd
+numpy
+spacy
+sentence-transformers
+ollama
